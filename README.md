@@ -19,7 +19,7 @@
 
 ### About Me
 
-> Final Year Undergraduate reading for a BSc in **Computer Science and Technology (CST)** at **Uva Wellassa University of Sri Lanka**, specializing in **Software Quality Assurance**. Focused on identifying edge cases early, validating system reliability, and bridging the gap between development and seamless user experience.
+> Final Year Undergraduate reading for a BSc in **Computer Science and Technology (CST)** at **Uwa Wellassa University of Sri Lanka**, specializing in **Software Quality Assurance**. Focused on identifying edge cases early, validating system reliability, and bridging the gap between development and seamless user experience.
 
 ---
 
